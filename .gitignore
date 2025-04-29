@@ -1,0 +1,13 @@
+agent
+agent.exe
+!agent/
+proxy
+proxy.exe
+!proxy/
+config.json
+*-config.json
+.DS_Store
+.cursor/
+*.txt
+__blobstorage__/
+__azurite*.json
