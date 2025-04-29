@@ -90,7 +90,7 @@ You should see displayed the storage account keys.
 
 #### Azurite
 
-If you want to test the tool, you can also use [Azurite] (https://github.com/Azure/Azurite), a lightweight server clone of Azure Storage that can be run locally. To install Azurite, I recommend using either [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite) or [Docker](https://hub.docker.com/r/microsoft/azure-storage-azurite).
+If you want to test the tool, you can also use [Azurite](https://github.com/Azure/Azurite), a lightweight server clone of Azure Storage that can be run locally. To install Azurite, I recommend using either [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite) or [Docker](https://hub.docker.com/r/microsoft/azure-storage-azurite).
 
 For the extension, installation is straightforward:
 
